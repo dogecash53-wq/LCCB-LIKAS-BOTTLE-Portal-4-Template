@@ -1,9 +1,1 @@
-# LPB-Piso-Wifi-Portal-4-Template
-LPB Piso Wifi Portal 4 Template
-Site: http://lpbpisowifi.com
-
-Group: https://www.facebook.com/groups/290641141598182/
-
-Change Theme Tutorial: https://www.facebook.com/groups/290641141598182/permalink/295880484407581/
-
-Credits: Pete Marvin
+🍾 Bottle-to-WiFi Vendo MachineA smart, eco-tech solution that exchanges recycled plastic bottles for temporary Wi-Fi access. This project combines internet accessibility with community recycling to promote a cleaner environment and bridge the digital divide.🚀 FeaturesSmart Bottle Detection: Uses sensors to validate and count deposited plastic (PET) bottles.Automated Wi-Fi Voucher System: Generates and displays a unique Wi-Fi access code or automatically authenticates the user upon successful deposit.Real-time Status Display: LCD or OLED screen providing user instructions and connection countdowns.Eco-Friendly Impact: Helps reduce public plastic waste by offering a digital incentive.🛠️ Tech Stack & ComponentsMicrocontroller: Raspberry Pi (for hotspot routing) or NodeMCU ESP8266 / ESP32 (for captive portal management)Sensors: Ultrasonic sensor (HC-SR04) or Infrared (IR) proximity sensorDisplay: 16x2 I2C LCD Display or OLED DisplayActuators: 12V Solenoid lock or Servo motor (for the bottle slot gate)
